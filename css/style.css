@@ -31,3 +31,25 @@ background-size: 26%;
     margin-block-start: 0px;
     margin-block-end: 0px;
 }
+
+/* tabella */
+table{
+    border-spacing: 0;
+}
+
+/* prima riga della tabella  */
+thead{
+    background-color: deepskyblue;
+    color: white;
+    text-align: left;
+}
+
+/* seconda e quarta riga della tabella */
+.riga-b{
+    background-color: lightskyblue;
+}
+
+/* spazio tra i td  */
+.td-space{
+    width: 25%;
+}
