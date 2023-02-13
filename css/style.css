@@ -53,3 +53,25 @@ thead{
 .td-space{
     width: 25%;
 }
+
+/* formattazione titolo footer  */
+#border-text{
+    margin-block-end: 10px;
+    color: gray;
+}
+
+/* immagine 1 footer  */
+#img1{
+    background-image: url(../img/monitor.jpg);
+    min-height: 220px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+/* immagine 2 footer  */
+#img2{
+    background-image: url(../img/graph.jpg);
+    min-height: 220px;
+    background-repeat: no-repeat;
+    color: white;
+}
