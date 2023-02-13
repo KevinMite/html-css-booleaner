@@ -1,0 +1,33 @@
+/* colore e size del banner */
+#banner{
+background-color: cornflowerblue;
+background-image: url(../img/pattern.png); color: blue;
+background-size: 26%;
+}
+
+/* formattazione del margine del titolo principale  */
+#title1{
+    margin-block-start: 8px;
+    margin-block-end: 0px;
+}
+
+/* formattazione del margine della scritta sotto il banner */
+#writer{
+    margin-block-start: 0px;
+}
+
+/* formattazione testo colore grigia */
+.format1{
+    color: gray;
+}
+
+/* formattazione testo colore azzurro  */
+.format2{
+    color: deepskyblue;
+}
+
+/* formattazione della scritta sotto le immagini */
+.text{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
